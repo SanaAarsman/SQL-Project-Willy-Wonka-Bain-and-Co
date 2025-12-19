@@ -1,0 +1,27 @@
+factory,countryregion,region,total_units_sold,total_gross_profit,profit_percentage
+"Lot's O' Nuts","United States",Pacific,6684,16472,69
+"Lot's O' Nuts","United States",Atlantic,5954,14672,69
+"Lot's O' Nuts","United States",Interior,5014,12359,69
+"Lot's O' Nuts","United States",Gulf,3373,8313,69
+"Lot's O' Nuts",Canada,Atlantic,245,607,69
+"Lot's O' Nuts",Canada,Pacific,142,349,69
+"Secret Factory","United States",Pacific,215,1418,51
+"Secret Factory","United States",Atlantic,299,1410,50
+"Secret Factory","United States",Interior,186,807,51
+"Secret Factory","United States",Gulf,161,480,52
+"Secret Factory",Canada,Pacific,14,140,50
+"Secret Factory",Canada,Atlantic,9,90,50
+"Sugar Shack","United States",Atlantic,61,64,54
+"Sugar Shack","United States",Interior,22,23,52
+"Sugar Shack","United States",Gulf,16,23,61
+"Sugar Shack","United States",Pacific,8,11,56
+"The Other Factory","United States",Pacific,115,61,16
+"The Other Factory","United States",Atlantic,154,55,11
+"The Other Factory","United States",Gulf,80,26,10
+"The Other Factory","United States",Interior,39,10,8
+"Wicked Choccy's","United States",Pacific,5270,12002,65
+"Wicked Choccy's","United States",Atlantic,4131,9394,65
+"Wicked Choccy's","United States",Interior,3529,8017,65
+"Wicked Choccy's","United States",Gulf,2579,5858,65
+"Wicked Choccy's",Canada,Atlantic,291,645,65
+"Wicked Choccy's",Canada,Pacific,63,137,65
