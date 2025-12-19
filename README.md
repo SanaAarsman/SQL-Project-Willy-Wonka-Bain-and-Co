@@ -15,11 +15,11 @@
 
 ## 📊 Business Insights
 
-- High sales volume in a region does not always imply high profitability (TO BE CONFIRMED)
+- High sales volume in a region does not always imply high profitability 
 
 - High sales volume of a product type does not always imply high profitability
 
-- A small group of customers contributes a large share of profit (TO BE CONFIRMED)
+- A small group of customers contributes a large share of profit 
 
 ## 🗂️ Dataset
 
@@ -51,7 +51,7 @@ Key tables include:
 
 An ERD is included to visualize the schema:
 
-***** add the ERD image link****
+![ERD – SQL Database and ER Diagram](willy-wonka-project/images/01_ERD.png)
 
 ## 📁 Repository Structure
 
@@ -60,22 +60,14 @@ SQL-project-willy-wonka-bain-and-co/
 │
 ├── data/                     # Raw and cleaned datasets; output from the SQL queries used for analysis 
 │
-├── notebooks/                # Jupyter notebooks for data exploration + EDA 
-│
 ├── plots/                    # ERD Diagram, all charts and visualisations
 │
-├── src/                      needed????????
-│   ├── utils.py
-│   └── __init__.py
+├── notebooks/                # Jupyter notebooks for data exploration + EDA 
+│
+├── sql/                      # SQL queries for the hypothesis
 │
 └── README.md                 # Project documentation
+```
 
-/sql-scripts
-   ├── schema.sql
-   ├── data_load.sql
-   ├── transformations.sql
-   └── analysis_queries.sql
-/erd
-   └── wonka_erd.png
-/data
-   └── wonka_choc_factory.csv
+## 🔗 Project Presentation:
+[Click here to view the Presentation](https://www.canva.com/design/DAG7BwzGbXM/dBh_EeMOEuMtqFE6VMiXIQ/edit)
